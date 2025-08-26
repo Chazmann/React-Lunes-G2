@@ -23,3 +23,14 @@
     border-radius: 30px;
     object-fit: cover;
 }   
+
+.buscadorHeader{
+    position:absolute;
+    bottom:0;
+    width: 80%;
+    left:10%;
+    .full{
+        width: calc(100% - 100px);
+     
+    }
+}

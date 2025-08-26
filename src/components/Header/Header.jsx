@@ -13,6 +13,7 @@ const Header = () => {
                 </div>
                 
                 <Buscador />
+             
             </header>
         </>
     )
