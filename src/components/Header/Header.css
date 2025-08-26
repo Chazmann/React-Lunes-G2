@@ -1,0 +1,25 @@
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.header {
+    height: 40vh;
+    position: relative;
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    object-fit: cover;
+}   

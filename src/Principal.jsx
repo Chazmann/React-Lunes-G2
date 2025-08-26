@@ -7,7 +7,7 @@ const Principal = ( {contenido} ) => {
     <div>
      {contenido}
      <br />
-<Platos NombrePlato="Pancho"/>
+<Platos NombrePlato="Empanadas"/>
 <Platos NombrePlato="Hamburguesa"/>
 
 
