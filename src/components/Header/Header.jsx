@@ -11,10 +11,8 @@ const Header = () => {
                     <Logo />
                     <PerfilUsuario />
                 </div>
-                
                 <Buscador />
-             
-            </header>
+             </header>
         </>
     )
 }
