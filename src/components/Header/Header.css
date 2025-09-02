@@ -27,7 +27,7 @@
 .buscadorHeader{
     position:absolute;
     height: 2em;
-    display: flex;
+    display: grid;
     bottom:-1em;
     width: 80%;
     left:10%;

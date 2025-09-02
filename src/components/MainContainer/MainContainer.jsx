@@ -8,10 +8,6 @@ const MainContainer = () => {
                 <Routes>
        
 
-
-
-
-       
                     <Route path="*" element={<NotFound />} />
 
                 </Routes>
